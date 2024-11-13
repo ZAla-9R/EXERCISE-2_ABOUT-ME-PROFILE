@@ -1,0 +1,17 @@
+* {
+
+}
+
+
+body {
+	background-color: deeppink;
+}
+
+.container {
+	background-color: black;
+	color: ghostwhite;
+}
+
+img {
+	width: 300px;
+}
